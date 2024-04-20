@@ -1,2 +1,3 @@
 let greeet = "hello";
-console.log(greeet);
+let username ="everyone";
+console.log(greeet + " " + username);
